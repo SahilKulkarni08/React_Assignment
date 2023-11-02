@@ -1,3 +1,4 @@
+Elevate Your Shopping Experience. Browse an extensive selection of products with seamless sorting, swift pagination, and captivating animations. Find what you love, effortlessly."
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
